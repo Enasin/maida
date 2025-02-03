@@ -1,0 +1,144 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+main {
+    margin-left: 20px;
+    margin-left: 20px;
+    word-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1 {
+    text-align: center;
+}
+.navbar ul {
+    list-style: none;
+    text-decoration: none;
+    background-color: rgb(17, 17, 17);
+    overflow: hidden;
+    
+} 
+.navbar a {
+    color: rgb(241, 235, 235);
+    text-decoration: none;
+    padding: 10px;
+    margin: 15px;
+    display: block;
+    text-align: center;
+}
+ .navbar a:hover {
+    color: rgb(230, 230, 245);
+    background-color: rgb(57, 57, 58);
+ }
+ .navbar li {
+    float: left;
+ }
+ about {
+    letter-spacing: 2px;
+    color: rgb(214, 134, 15);
+    font-family: "roboto",sans-serif;
+    padding: 2px;
+ }
+ .about {
+    color: rgb(23, 23, 241);
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    font-family: "roboto", sans-serif;
+ }
+ 
+    
+ .para2 {
+    font-family: "roboto",sans-serif;
+    letter-spacing: 1px;
+    padding: 25px 25px;
+ }
+.para {
+    font-family: sans-serif;
+    margin:  20px;
+    padding: 20px;
+    letter-spacing: 2px;
+    
+}
+.container {
+    margin: 100px 0 0 200px;
+    width: 70%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.container img {
+    width: 10%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+    border: 2px solid wheat;
+    transition: all ease-in-out 0.5s;
+    background-color: rgb(198, 207, 201);
+}
+.container img:hover {
+    width: 70%
+}
+
+
+.hh { 
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-family: "audiowide",sans-serif;
+    font-size: large;
+    font-style: "audiowide",sanis-serif;
+    padding: 20px;
+    border: 2px solid rgb(32, 17, 2);
+}
+.information {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    padding: 25px;
+    margin: 25px;
+    letter-spacing: 2px;
+}
+.script ul  {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+
+}
+.script li {
+    list-style: none;
+    font-size: 20px;
+    padding: 20px;
+    margin: 10px;
+    float: left;
+    
+}
+.btn {
+    width: 100px;
+    height: 40px;
+    background: rgb(145, 141, 141);
+    border: 2px solid rgb(131, 129, 127);
+    margin-top: 13px;
+    color: aliceblue;
+    font-size: 15px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 15px;
+}
+.srch:focus {
+    outline: none;
+}
+.srch:focus {
+    outline: none;
+}
+
+ img {
+    width: 500px;
+    height: 400px;
+    align-items: center;
+    padding: 40px;
+    margin: 20px;
+    margin-bottom: 20px;
+    margin: 0px;
+    margin-right: 59px;
+    border-radius: 90px;
+ }
