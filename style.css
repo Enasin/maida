@@ -17,6 +17,10 @@ h1 {
     text-decoration: none;
     background-color: rgb(17, 17, 17);
     overflow: hidden;
+    display:flex;
+    flex-direction:center;
+    item-align:center;
+    text-align:center;
     
 } 
 .navbar a {
@@ -143,3 +147,4 @@ h1 {
     margin-right: 59px;
     border-radius: 90px;
  }
+
